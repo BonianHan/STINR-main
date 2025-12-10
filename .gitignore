@@ -3,3 +3,4 @@ __pycache__/
 *.csv
 SHUFFLE.ipynb
 *.jsonl
+.DS_Store
